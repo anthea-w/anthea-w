@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @anthea-w
-- 👀 I’m interested in art
-- 🌱 I’m currently learning how to use GitHub
-- 📫 How to reach me @antheaw on twitter
+Kia ora! I'm Anthea from New Zealand. 
+
+I'm a project manager and producer of digital projects, currently supporting [DevOps Nirvana](https://www.devops-nirvana.com/), I would love if you checked it out!
+
+You can [find me on LinkedIn](https://www.linkedin.com/in/antheawhittle/) for more.
