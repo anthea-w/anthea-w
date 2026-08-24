@@ -1,5 +1,7 @@
 Kia ora! I'm Anthea from New Zealand. 
 
-I'm a project manager and producer of digital projects, currently supporting [DevOps Nirvana](https://www.devops-nirvana.com/), I would love if you checked it out!
+Primary role is as fractional CTO of simpact AI: [simpactai.com](https://simpactai.com) helping community organisations and non-profits with their impact reporting, using AI in a human-led workflow.
+
+I use github for projects unrelated to this role also!
 
 You can [find me on LinkedIn](https://www.linkedin.com/in/antheawhittle/) for more.
